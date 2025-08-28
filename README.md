@@ -1,4 +1,4 @@
-# Python SMS Sender (Twilio)
+# Python SMS Sender 
 
 This project demonstrates how to send an SMS using Python and Twilio API.
 
